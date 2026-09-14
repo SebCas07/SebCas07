@@ -19,3 +19,7 @@ I'm a Computer Science studnet and student-athlete at North Park University in C
 - Building out personal coding projects to apply what I learn in class
 - Open to collaborating on beginner-friendly software projects
 
+## Let's Connect 
+- tiancas07@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sebastian-castro-558b3935a/)
+- Chicago, IL / San Diego, CA
