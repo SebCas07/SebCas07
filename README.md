@@ -8,3 +8,14 @@ I'm a Computer Science studnet and student-athlete at North Park University in C
 **Tools:** VS Code, Git
 **Currently Learning:** Docker
 *Spoken Languages:** English, Spanish, basic ASL
+
+## Currently Learning 
+
+- Data Structure - Deepening my understanding of algorithms and efficient problem-solving 
+- Docker - learning to containerize and deploy applications
+
+## What I'm Working On 
+
+- Building out personal coding projects to apply what I learn in class
+- Open to collaborating on beginner-friendly software projects
+
